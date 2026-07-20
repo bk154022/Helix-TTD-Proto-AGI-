@@ -1,0 +1,7 @@
+{
+  "release": "Production",
+  "telemetry": true,
+  "ledger": true,
+  "middleware": false,
+  "grammar_router": true
+}
