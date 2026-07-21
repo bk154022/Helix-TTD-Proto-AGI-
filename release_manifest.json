@@ -1,7 +1,7 @@
 {
     "release": "v2.1.1-PRODUCTION",
     "project": "Helix Proto-AGI",
-    "generated_at": "2026-07-21T06:01:09.669255+00:00",
+    "generated_at": "2026-07-21T06:28:01.839525+00:00",
     "phase_files": {
         "phase1_braid_engine.py": "fa3145bc9bce0411dcc9a5ee6dd1a3342019b95cfb38ce76baa515d1891b9aea",
         "phase2_hybrid_key_exchange.py": "8b1fa04f6e1f0e08efc3efac7efb71dfa986e19d54f1f36e75cbc94253313ae2",
