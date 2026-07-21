@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2026-07-21T05:54:48.247759Z",
+        "version": "v2.1.1",
+        "trace_real": -1.0000000000000007,
+        "trace_imag": 0.0,
+        "trace_magnitude": 1.0000000000000007,
+        "seed_sha512": "f9d47395b5643907581ff78596e136b2c93becd42a96444ba68f50264d7318afe6a82ffdbcf5c42c0ea44f353f50bf0b97504c194421bce729dda95833b2270c",
+        "receipt_sha256": "41229667d3f16f8385f1d6916fd9455723c69cf742098aacadc19d3d7cf9719d",
+        "verification_hash": "7abb8993589b3b6a677e44bffe48e27019508da86bc0bc85eb7ecb4c8f51dd8a"
+    }
+]
