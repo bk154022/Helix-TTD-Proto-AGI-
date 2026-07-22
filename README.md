@@ -1,18 +1,18 @@
-# Helix-TTD Proto-AGI v2.1.1
+# Khan-Helix-TTD Proto-AGI v2.1.1
 
 > **Production Tag:** `v2.1.1-PRODUCTION`  
 > **Active Research Branch:** `v2.1.1-RESEARCH`
 
 ## Overview
 
-Helix-TTD Proto-AGI is a modular research prototype that explores deterministic runtime validation, topological security mechanisms, hybrid key exchange, ledger synchronization, and interface boundary isolation within a phased computational architecture. The repository is organized to separate production-ready components from ongoing research and development.
+Khan-Helix-TTD Proto-AGI is a modular research prototype that explores deterministic runtime validation, topological security mechanisms, hybrid key exchange, ledger synchronization, and interface boundary isolation within a phased computational architecture. The repository is organized to separate production-ready components from ongoing research and development.
 
 ---
 
 ## Repository Structure
 
 ```text
-Helix-ProtoAGI-v2.1.1/
+Khan-Helix-ProtoAGI-v2.1.1/
 │
 ├── configs/                  # Build, manifest and version configuration
 ├── docs/                     # Project documentation and release notes
@@ -49,18 +49,6 @@ Helix-ProtoAGI-v2.1.1/
 | Phase 6 | Ledger Automation | Automated ledger synchronization |
 | Phase 7 | Interface Boundary Isolation | External interface protection and validation |
 | Phase 8 | Release Validation | Final production verification |
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/bk154022/Helix-TTD-Proto-AGI-.git
-cd Helix-ProtoAGI-v2.1.1
-
-python -m venv .venv
-pip install -r requirements.txt
-```
 
 ---
 
